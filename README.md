@@ -1,0 +1,2 @@
+# uas_spk_widyaindrianingsih_181011402508
+stemming lemminitazion
