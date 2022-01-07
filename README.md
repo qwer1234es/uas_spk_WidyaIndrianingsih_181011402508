@@ -1,3 +1,5 @@
 # NLP-Course-UII
 
-These codes are used for the Natural Language Processing course at The Department of Informatics, Universitas Islam Indonesia
+project stemming dan lemmitization
+Tugas uas sistem penunjang keputusan (SPK) 
+Widya Indrianingsih _181011402508_07tplm009
