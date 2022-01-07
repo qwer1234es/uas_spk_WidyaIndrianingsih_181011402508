@@ -1,2 +1,3 @@
-# uas_spk_widyaindrianingsih_181011402508
-stemming lemminitazion
+# NLP-Course-UII
+
+These codes are used for the Natural Language Processing course at The Department of Informatics, Universitas Islam Indonesia
